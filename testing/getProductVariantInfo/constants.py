@@ -1,0 +1,1 @@
+expectedProductVariantInfo = {'name': 'example_name', 'availability': {'isAvailable': False, 'Nicht mehr verfügbar, sehen Sie sich die Alternativen an': 'Nicht mehr verfügbar, sehen Sie sich die Alternativen an'}, 'price': '€ 8,46', 'needleSize': '8 mm', 'composition': '100% Baumwolle'}

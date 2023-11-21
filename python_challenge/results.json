@@ -1,0 +1,1920 @@
+{
+    "combinedSearchQuery": {
+        "Budgetyarn": [
+            {
+                "brandName": "Budgetyarn",
+                "name": "Soft Aran",
+                "relativeUrl": ""
+            }
+        ],
+        "DMC": [
+            {
+                "brandName": "DMC",
+                "name": "Natura XL",
+                "relativeUrl": "/wolle/dmc/dmc-natura-xl"
+            }
+        ],
+        "Drops": [
+            {
+                "brandName": "Drops",
+                "name": "Safran",
+                "relativeUrl": "/wolle/drops/drops-safran"
+            },
+            {
+                "brandName": "Drops",
+                "name": "Baby Merino Mix",
+                "relativeUrl": "/wolle/drops/drops-baby-merino-mix"
+            }
+        ],
+        "G\u00fctermann": [
+            {
+                "brandName": "G\u00fctermann",
+                "name": "Creative Cotton Box",
+                "relativeUrl": ""
+            }
+        ],
+        "Hahn": [
+            {
+                "brandName": "Hahn",
+                "name": "Alpacca Speciale",
+                "relativeUrl": ""
+            }
+        ],
+        "Rico": [
+            {
+                "brandName": "Rico",
+                "name": "Baby Dream DK",
+                "relativeUrl": ""
+            }
+        ],
+        "Stylecraft": [
+            {
+                "brandName": "Stylecraft",
+                "name": "Special double knit",
+                "relativeUrl": "/wolle/stylecraft/stylecraft-special-dk"
+            }
+        ]
+    },
+    "queryResults": [
+        [
+            {
+                "name": "Creative Cotton Box",
+                "results": null
+            }
+        ],
+        [
+            {
+                "name": "Baby Dream DK",
+                "results": null
+            }
+        ],
+        [
+            {
+                "name": "Soft Aran",
+                "results": null
+            }
+        ],
+        [
+            {
+                "name": "Natura XL",
+                "results": [
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "02 Black",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 8,46"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "03 Ivory",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 8,46"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "06 Aubergine",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 8,46"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "07 Aqua",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 8,46"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "08 Dark Green",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 8,46"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "09 Yellow",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 5,90"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "10 Orange",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 8,46"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "11 Light Brown",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 8,46"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "12 Light Grey",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 8,46"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "32 Stone",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 8,46"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "40 Bonbon",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 8,46"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "41 Light Pink",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 8,46"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "42 Pink",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 5,90"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "44 Rose shocking",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 8,46"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "61 Lilac",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 8,46"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "72 Duck Egg",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 8,46"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "73 Light Blue",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 8,46"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "80 Chartreuse",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 8,46"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "81 Teal",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 8,46"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "83 Lime",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 8,46"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "90 Soufre",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 5,89"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "91 Light Yellow",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 8,46"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "92 Ochre",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 8,46"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "109 Orange",
+                        "needleSize": "8 mm",
+                        "price": "\u20ac 8,46"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "name": "Safran",
+                "results": [
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "1 Light-pink",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "2 Medium-pink",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "4 Green",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "5 Light-blue-purple",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "6 Denim-blue",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "7 Medium-grey",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "9 Navy-blue",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "10 Yellow",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "11 Strong-yellow",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "12 Peach",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "13 Raspberry",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "15 Dark-heather",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "16 Black",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "17 White",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "18 Off-white",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "19 Red",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "20 Rust",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "21 Beige",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "22 Light-brown",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "23 Brown",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "28 Orange",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "30 Turquoise",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "31 Lime",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "50 Light-ice-blue",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "51 Petrol",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an": "Nicht mehr verf\u00fcgbar, sehen Sie sich die Alternativen an",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "55 Cerise",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "56 Powder Pink",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "57 Mauve",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "58 Amethyst",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "59 Red Clay",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "60 Mosgroen",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "61 Bright Lime",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "62 Citroen",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "63 Zeegroen",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "64 Licht Beige",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "65 Pistachio",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "66 Mustard",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "67 Pumpkin",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "68 Coffee",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "69 Blush",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "70 Sweet Orchid",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "71 Marzipan",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "72 Chalk",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,55"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "74 Pistachio Ice Cream",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,62"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Baumwolle",
+                        "name": "75 Magenta",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 1,62"
+                    }
+                ]
+            },
+            {
+                "name": "Baby Merino Mix",
+                "results": [
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Merinowolle",
+                        "name": "17 Beige",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 3,75"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Merinowolle",
+                        "name": "19 Grey",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 3,75"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Merinowolle",
+                        "name": "20 Dark-grey",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 3,75"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Merinowolle",
+                        "name": "22 Light-grey",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 3,75"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Merinowolle",
+                        "name": "23 Light-beige",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 3,75"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Merinowolle",
+                        "name": "37 Light-lavender",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 3,75"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Merinowolle",
+                        "name": "38 Olive",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 3,75"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Merinowolle",
+                        "name": "39 Purple-orchid",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 3,75"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Merinowolle",
+                        "name": "40 Amethyst",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 3,75"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Merinowolle",
+                        "name": "48 Blush",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 3,75"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Merinowolle",
+                        "name": "49 Woestijnroos",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 3,75"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Merinowolle",
+                        "name": "50 Saliegroen",
+                        "needleSize": "3 mm",
+                        "price": "\u20ac 3,75"
+                    }
+                ]
+            }
+        ],
+        [
+            {
+                "name": "Alpacca Speciale",
+                "results": null
+            }
+        ],
+        [
+            {
+                "name": "Special double knit",
+                "results": [
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1001 White",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1002 Black",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1003 Aster",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1004 Dark Brown",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1005 Cream",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1009 Bottle",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1010 Matador",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1011 Midnight",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1019 Cloud Blue",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1020 Lemon",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1023 Raspberry",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1026 Apricot",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1027 Khaki",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1029 Copper",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1034 Sherbet",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1035 Burgundy",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1054 Walnut",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1061 Plum",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1062 Teal",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1063 Graphite",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1064 Mocha",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1065 Meadow",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1067 Grape",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1068 Turquoise",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1080 Pale Rose",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1081 Saffron",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1082 Bluebell",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1083 Pomegranate",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1084 Magenta",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1099 Grey",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1114 Sunshine",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1116 Green",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1117 Royal",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1123 Claret",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1124 Greengage",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1125 Waterfall",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1126 Sandstone",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1127 Peony",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1128 Charcoal",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1129 Viola",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1130 Candyfloss",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1132 Shrimp",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1188 Lavender",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1202 Atlantis",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1203 Silver",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1204 Camation",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1218 Parchment",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1240 Soft Peach",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1241 Fondant",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1246 Lipstick",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1256 Jaffa",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1257 Fiesta",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1259 Bright Green",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1263 Citron",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1277 Violet",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1302 Denim",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1316 Spring Green",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1390 Clematis",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1420 Camel",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1422 Aspen",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1425 Emperor",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1432 Wisteria",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1435 Bright Pink",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1708 Petrol",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Reservieren Sie im Voraus, Lieferzeit nach R\u00fccksprache": "Reservieren Sie im Voraus, Lieferzeit nach R\u00fccksprache",
+                            "isAvailable": false
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1709 Gold",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1710 Stone",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1711 Spice",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1712 Lime",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1722 Storm-Blue",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1723 Tomato",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1724 Parma-Violet",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1725 Sage",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1805 Warm Grey",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1806 Gingerbread",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1807 Hint of Silver",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1820 Duck-Egg",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1821 Grass-Green",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1822 Pistachio",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1823 Mustard",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1824 Cypress",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1825 Lobelia",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1826 Kelly-green",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1827 Fuchsia-purple",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1828 Boysenberry",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1829 Empire",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1831 Lapis",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1832 Mushroom",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1833 Blush",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1834 Lincoln",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1835 Buttermilk",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1836 Vintage Peach",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1841 Cornish Blue",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1842 Spearmint",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1843 Powder Pink",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1844 Toy",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1852 Apple",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1853 Clementine",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1854 French Navy",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1855 Proper Purple",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    },
+                    {
+                        "availability": {
+                            "Lieferbar": "Lieferbar",
+                            "isAvailable": true
+                        },
+                        "composition": "100% Acryl",
+                        "name": "1856 Dandelion",
+                        "needleSize": "4 mm",
+                        "price": "\u20ac 3,10"
+                    }
+                ]
+            }
+        ]
+    ]
+}
